@@ -1,0 +1,32 @@
+ATLIQ MEDIA ELECTION TV SHOW - SUMMARY METRICS FOR PRODUCER
+===========================================================
+
+Total Volatility Index: 163 of 234 seats flipped (69.7%)
+2026 Statewide Turnout: 85.10% (Record High vs 73.04% in 2021)
+
+2026 SEAT TALLIES:
+party_2026
+TVK       108
+DMK        59
+AIADMK     47
+INC         5
+PMK         4
+IUML        2
+CPI         2
+VCK         2
+CPIM        2
+BJP         1
+DMDK        1
+AMMK        1
+
+2021 SEAT TALLIES:
+party_2021
+DMK       133
+AIADMK     66
+INC        18
+PMK         5
+VCK         4
+BJP         4
+CPI         2
+CPIM        2
+
